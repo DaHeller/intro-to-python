@@ -58,6 +58,7 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 ## About me:
 
 David Heller - Associate Data Science Instructor - Data Scientist
+
 https://www.linkedin.com/in/da-heller/
 
 
