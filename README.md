@@ -57,8 +57,8 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 ## About me:
 
-Kevin Kaltenbacher CFA, CFP - associate data science instructor - data scientist 
-https://www.linkedin.com/in/kevin-kaltenbacher/
+David Heller - Associate Data Science Instructor - Data Scientist
+https://www.linkedin.com/in/da-heller/
 
 
 
